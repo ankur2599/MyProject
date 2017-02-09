@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8E19-E11C
+
+ Directory of C:\Users\ankr2591\Desktop\MyProject
+
+2017-02-08  08:32 PM    <DIR>          .
+2017-02-08  08:32 PM    <DIR>          ..
+2017-02-08  08:32 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  191,112,306,688 bytes free
